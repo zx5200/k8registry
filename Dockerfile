@@ -1,1 +1,1 @@
-FROM feiyu563/prometheus-alert:v4.8.2
+FROM elasticsearch:7.17.14
