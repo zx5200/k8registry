@@ -1,1 +1,1 @@
-FROM elasticsearch:7.17.14
+FROM skywalking.docker.scarf.sh/apache/skywalking-ui:8.9.0
