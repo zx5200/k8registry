@@ -1,1 +1,1 @@
-FROM apache/skywalking-ui:9.6.0
+FROM apache/skywalking-oap-server:9.6.0
