@@ -1,1 +1,1 @@
-FROM apache/skywalking-ui:9.6.0
+FROM elasticsearch:8.12.2
