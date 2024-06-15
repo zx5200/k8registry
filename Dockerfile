@@ -1,1 +1,1 @@
-FROM busybox:latest
+FROM elasticsearch:7.17.4
