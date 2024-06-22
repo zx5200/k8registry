@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/zookeeper:3.8.0-debian-10-r64
+FROM docker.io/bitnami/kafka:3.2.0-debian-10-r4
